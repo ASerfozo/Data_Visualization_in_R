@@ -2,7 +2,7 @@
 
 Application: Wine Browser
 
-The Shiny application is a Wine Browser based on the dataset scraped from Vivno.com, found on Kaggle (https://www.kaggle.com/budnyak/wine-rating-and-price). 
+The Shiny application is a Wine Browser based on the dataset scraped from Vivno.com, found on [Kaggle](https://www.kaggle.com/budnyak/wine-rating-and-price). 
 
 Functionality
 In the dashboard the user can filter the more than 13,800 wines rated on Vivino US according to the selected criteria in the Filter Menu including wine type, price range, desired rating, country of origin or year of wine. A reset button is also available in the Filter Menu to easily restate the filters to their original position. 

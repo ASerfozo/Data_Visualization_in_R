@@ -2,11 +2,9 @@
 
 The aim of the projects are to create useful easy to understand visualization in a couple of hours in Tableau from a random dataset.
 
-Link to Makeover Monday:
-https://www.makeovermonday.co.uk/data/
+[Link to Makeover Monday](https://www.makeovermonday.co.uk/data/)
 
-Link to the Tableau dashboards:
-https://public.tableau.com/profile/attila.serfozo#!/
+[Link to the Tableau dashboards]https://public.tableau.com/profile/attila.serfozo#!/)
 
 - Week 2 is a Tableau Dashboard about HIV infections in Africa.
 

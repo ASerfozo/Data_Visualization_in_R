@@ -2,5 +2,4 @@
 
 The aim of the project is to create an interactive Tableau visualization about a common company dataset.
 
-Link to the Tableau dashboards:
-https://public.tableau.com/profile/attila.serfozo#!/vizhome/MszrosViktria_AttilaSerfz_Call_Centers_Dashboard/CallCenterDashboard
+[Link to the Tableau dashboards](https://public.tableau.com/profile/attila.serfozo#!/vizhome/MszrosViktria_AttilaSerfz_Call_Centers_Dashboard/CallCenterDashboard)

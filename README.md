@@ -2,7 +2,7 @@
 
 This is the Data Visualization repository of Attila Serfozo including dashboards and visuals using Tableau, R and Shiny.
 
-Tableau Dashboards can be found at my Tableau Public profile: https://public.tableau.com/profile/attila.serfozo#!/
+Tableau Dashboards can be found at my [Tableau Public profile](https://public.tableau.com/profile/attila.serfozo#!/).
 
 #### Data Visualization 1 - Introduction to Tableau
 - Task 1 coffee quality is a two paged dashboard about the Coffee Quality Institute coffee rankings.
@@ -10,7 +10,7 @@ Tableau Dashboards can be found at my Tableau Public profile: https://public.tab
 #### Data Visualization 3 - Tableau advanced
 - Task 2 Makeover Monday is the Tableau dashboards of my participation in the MakeoverMonday data viz challange.
 
-- Task 3 US Call Centers is a team assignment with Viktória Mészáros about a US call center dataset.
+- Task 3 US Call Centers is a team assignment with [Viktória Mészáros](https://github.com/Viki-Meszaros) about a US call center dataset.
 
 - Task 4 used car dashboard is my two paged dashboard about Ford Focus used cars from hasznaltauto.hu showing the distribution of cars across several variables and the attributes connection with price.
 
