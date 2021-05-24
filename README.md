@@ -2,7 +2,7 @@
 
 This is the Data Visualization repository of Attila Serfozo including dashboards and visuals using Tableau, R and Shiny.
 
-Tableau Dashboards can be found at my #### [Tableau Public profile](https://public.tableau.com/profile/attila.serfozo#!/).
+Tableau Dashboards can be found at my [Tableau Public profile](https://public.tableau.com/profile/attila.serfozo#!/).
 
 #### Data Visualization 1 - Introduction to Tableau
 - Task 1 coffee quality is a two paged dashboard about the Coffee Quality Institute coffee rankings.
